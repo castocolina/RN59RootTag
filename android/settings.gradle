@@ -1,0 +1,3 @@
+rootProject.name = 'RN59RootTag'
+
+include ':app'

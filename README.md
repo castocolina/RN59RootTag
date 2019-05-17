@@ -85,9 +85,9 @@ For me using my code the issue isnt fixed changing _android:launchMode="singleTo
 
   adb shell getprop | egrep 'product.vendor.|.software.'
 
-  > \[ro.build.software.version]: [Android9_10]
-  > \[ro.product.vendor.brand]: [Xiaomi]
-  > \[ro.product.vendor.device]: [polaris]
-  > \[ro.product.vendor.manufacturer]: [Xiaomi]
-  > \[ro.product.vendor.model]: [Mi MIX 2S]
-  > \[ro.product.vendor.name]: [polaris]
+  > ro.build.software.version = Android9_10
+  > ro.product.vendor.brand = Xiaomi
+  > ro.product.vendor.device = polaris
+  > ro.product.vendor.manufacturer = Xiaomi
+  > ro.product.vendor.model = Mi MIX 2S
+  > ro.product.vendor.name = polaris

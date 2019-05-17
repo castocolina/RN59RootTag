@@ -1,6 +1,6 @@
 # RN59RootTag
 
-ReactNative issue when send the app to background and return from. Create multiple instances of my app.
+ReactNative issue when send the app to background and return from. Create multiple instances of my component.
 
 With RN Debugger is easy to see multiple rootTags when send app to BG (press device home button) and launch app again (Press app icon, shortcut or from app list). May someone say the debugger isnt real escenario, i take the time to create and test in release mode.
 

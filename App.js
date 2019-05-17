@@ -8,6 +8,7 @@
 
 import React, { Component } from "react";
 import { AppState, Platform, StyleSheet, Text, View } from "react-native";
+const { name: cmpName } = require("./package");
 
 const instructions = Platform.select({
   ios: "Press Cmd+R to reload,\n" + "Cmd+D or shake for dev menu",
@@ -27,24 +28,28 @@ export default class App extends Component<Props> {
     if (!this.compId) {
       this.compId = Math.floor(Math.random() * 100) + 1;
     }
+    this.compName = cmpName;
   }
 
   componentDidMount() {
-    console.info(this.compId, "componentDidMount");
+    const { compId, compName } = this;
+    console.info(compId, compName, "componentDidMount");
     AppState.addEventListener("change", this._handleAppStateChange);
   }
 
   componentWillUnmount() {
-    console.info(this.compId, "componentWillUnmount");
+    const { compId, compName } = this;
+    console.info(compId, compName, "componentWillUnmount");
     AppState.removeEventListener("change", this._handleAppStateChange);
   }
 
   _handleAppStateChange = nextAppState => {
+    const { compId, compName } = this;
     const { appState } = this.state;
-    console.info(this.compId, appState, nextAppState);
+    console.info(compId, compName, appState, nextAppState);
 
     if (appState.match(/inactive|background/) && nextAppState === "active") {
-      console.log(this.compId, "App has come to the foreground!");
+      console.log(compId, compName, "App has come to the foreground!");
     }
     this.setState({ appState: nextAppState });
   };

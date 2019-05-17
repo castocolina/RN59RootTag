@@ -59,7 +59,8 @@ For me using my code the issue isnt fixed changing _android:launchMode="singleTo
 
 #### My environment
 
-- Mac OS
+- OS:
+
   `sw_vers`
 
   > ProductName: Mac OS X<br/>
@@ -83,7 +84,7 @@ For me using my code the issue isnt fixed changing _android:launchMode="singleTo
 
 - Device:
 
-  adb shell getprop | egrep 'product.vendor.|.software.'
+  `adb shell getprop | egrep 'product.vendor.|.software.'`
 
   > ro.build.software.version = Android9_10<br/>
   > ro.product.vendor.brand = Xiaomi<br/>

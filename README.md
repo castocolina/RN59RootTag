@@ -104,21 +104,15 @@ For me using my code the issue isnt fixed changing _android:launchMode="singleTo
 
   ```
     adb shell getprop | egrep \
-    'product.vendor.|.software.|product.manufacturer|product.brand|product.model|ro.build.version.release|ro.build.version.sdk'
+    'product.manufacturer|product.brand|product.model|ro.build.version.release|ro.build.version.sdk'
   ```
 
 > > ```
-> > [ro.build.software.version]: [Android9_10]
 > > [ro.build.version.release]: [9]
 > > [ro.build.version.sdk]: [28]
 > > [ro.product.brand]: [Xiaomi]
 > > [ro.product.manufacturer]: [Xiaomi]
 > > [ro.product.model]: [Mi MIX 2S]
-> > [ro.product.vendor.brand]: [Xiaomi]
-> > [ro.product.vendor.device]: [polaris]
-> > [ro.product.vendor.manufacturer]: [Xiaomi]
-> > [ro.product.vendor.model]: [Mi MIX 2S]
-> > [ro.product.vendor.name]: [polaris]
 > > ```
 
 ---

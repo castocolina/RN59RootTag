@@ -1,0 +1,110 @@
+--------- beginning of main
+--------- beginning of system
+05-17 10:08:35.876  7812  7812 D ReactNative: ReactInstanceManager.ctor()
+05-17 10:08:35.880  7812  7812 D ReactNative: ReactInstanceManager.createReactContextInBackground()
+05-17 10:08:35.880  7812  7812 D ReactNative: ReactInstanceManager.recreateReactContextInBackgroundInner()
+05-17 10:08:35.880  7812  7812 D ReactNative: ReactInstanceManager.recreateReactContextInBackgroundFromBundleLoader()
+05-17 10:08:35.880  7812  7812 D ReactNative: ReactInstanceManager.recreateReactContextInBackground()
+05-17 10:08:35.880  7812  7812 D ReactNative: ReactInstanceManager.runCreateReactContextOnNewThread()
+05-17 10:08:35.940  7812  7835 D ReactNative: ReactInstanceManager.createReactContext()
+05-17 10:08:35.990  7812  7835 D ReactNative: Initializing React Xplat Bridge.
+05-17 10:08:36.001  7812  7835 D ReactNative: Initializing React Xplat Bridge before initializeBridge
+05-17 10:08:36.021  7812  7835 D ReactNative: Initializing React Xplat Bridge after initializeBridge
+05-17 10:08:36.021  7812  7835 D ReactNative: CatalystInstanceImpl.runJSBundle()
+05-17 10:08:36.031  7812  7848 D ReactNative: ReactInstanceManager.setupReactContext()
+05-17 10:08:36.031  7812  7848 D ReactNative: CatalystInstanceImpl.initialize()
+05-17 10:08:36.036  7812  7848 D ReactNative: ReactInstanceManager.attachRootViewToInstance()
+05-17 10:08:36.437  7812  7847 I ReactNativeJS: Running application "RN59RootTag" with appParams: {"rootTag":1}. __DEV__ === false, development-level warning are OFF, performance optimizations are ON
+05-17 10:08:36.529  7812  7847 I ReactNativeJS: 89, 'RN59RootTag', 'componentDidMount'
+05-17 10:08:59.201  7812  7847 I ReactNativeJS: 89, 'RN59RootTag', 'active', 'background'
+05-17 10:09:11.870  7812  7812 D ReactNative: ReactInstanceManager.attachRootViewToInstance()
+05-17 10:09:11.872  7812  7847 I ReactNativeJS: Running application "RN59RootTag" with appParams: {"rootTag":11}. __DEV__ === false, development-level warning are OFF, performance optimizations are ON
+05-17 10:09:11.916  7812  7847 I ReactNativeJS: 85, 'RN59RootTag', 'componentDidMount'
+05-17 10:09:11.919  7812  7847 I ReactNativeJS: 89, 'RN59RootTag', 'background', 'active'
+05-17 10:09:11.921  7812  7847 I ReactNativeJS: 89, 'RN59RootTag', 'App has come to the foreground!'
+05-17 10:09:11.928  7812  7847 I ReactNativeJS: 85, 'RN59RootTag', 'background', 'active'
+05-17 10:09:11.928  7812  7847 I ReactNativeJS: 85, 'RN59RootTag', 'App has come to the foreground!'
+05-17 10:09:14.257  7812  7847 I ReactNativeJS: 89, 'RN59RootTag', 'active', 'background'
+05-17 10:09:14.273  7812  7847 I ReactNativeJS: 85, 'RN59RootTag', 'active', 'background'
+05-17 10:09:15.299  7812  7812 D ReactNative: ReactInstanceManager.attachRootViewToInstance()
+05-17 10:09:15.315  7812  7847 I ReactNativeJS: Running application "RN59RootTag" with appParams: {"rootTag":21}. __DEV__ === false, development-level warning are OFF, performance optimizations are ON
+05-17 10:09:15.346  7812  7847 I ReactNativeJS: 26, 'RN59RootTag', 'componentDidMount'
+05-17 10:09:15.349  7812  7847 I ReactNativeJS: 89, 'RN59RootTag', 'background', 'active'
+05-17 10:09:15.350  7812  7847 I ReactNativeJS: 89, 'RN59RootTag', 'App has come to the foreground!'
+05-17 10:09:15.356  7812  7847 I ReactNativeJS: 85, 'RN59RootTag', 'background', 'active'
+05-17 10:09:15.357  7812  7847 I ReactNativeJS: 85, 'RN59RootTag', 'App has come to the foreground!'
+05-17 10:09:15.361  7812  7847 I ReactNativeJS: 26, 'RN59RootTag', 'background', 'active'
+05-17 10:09:15.362  7812  7847 I ReactNativeJS: 26, 'RN59RootTag', 'App has come to the foreground!'
+05-17 10:09:16.549  7812  7847 I ReactNativeJS: 89, 'RN59RootTag', 'active', 'background'
+05-17 10:09:16.556  7812  7847 I ReactNativeJS: 85, 'RN59RootTag', 'active', 'background'
+05-17 10:09:16.559  7812  7847 I ReactNativeJS: 26, 'RN59RootTag', 'active', 'background'
+05-17 10:09:17.530  7812  7812 D ReactNative: ReactInstanceManager.attachRootViewToInstance()
+05-17 10:09:17.533  7812  7847 I ReactNativeJS: Running application "RN59RootTag" with appParams: {"rootTag":31}. __DEV__ === false, development-level warning are OFF, performance optimizations are ON
+05-17 10:09:17.553  7812  7847 I ReactNativeJS: 73, 'RN59RootTag', 'componentDidMount'
+05-17 10:09:17.556  7812  7847 I ReactNativeJS: 89, 'RN59RootTag', 'background', 'active'
+05-17 10:09:17.556  7812  7847 I ReactNativeJS: 89, 'RN59RootTag', 'App has come to the foreground!'
+05-17 10:09:17.567  7812  7847 I ReactNativeJS: 85, 'RN59RootTag', 'background', 'active'
+05-17 10:09:17.567  7812  7847 I ReactNativeJS: 85, 'RN59RootTag', 'App has come to the foreground!'
+05-17 10:09:17.570  7812  7847 I ReactNativeJS: 26, 'RN59RootTag', 'background', 'active'
+05-17 10:09:17.570  7812  7847 I ReactNativeJS: 26, 'RN59RootTag', 'App has come to the foreground!'
+05-17 10:09:17.574  7812  7847 I ReactNativeJS: 73, 'RN59RootTag', 'background', 'active'
+05-17 10:09:17.574  7812  7847 I ReactNativeJS: 73, 'RN59RootTag', 'App has come to the foreground!'
+05-17 10:09:20.404  7812  7847 I ReactNativeJS: 89, 'RN59RootTag', 'active', 'background'
+05-17 10:09:20.407  7812  7847 I ReactNativeJS: 85, 'RN59RootTag', 'active', 'background'
+05-17 10:09:20.413  7812  7847 I ReactNativeJS: 26, 'RN59RootTag', 'active', 'background'
+05-17 10:09:20.415  7812  7847 I ReactNativeJS: 73, 'RN59RootTag', 'active', 'background'
+05-17 10:09:20.429  7812  7847 I ReactNativeJS: 89, 'RN59RootTag', 'background', 'active'
+05-17 10:09:20.430  7812  7847 I ReactNativeJS: 89, 'RN59RootTag', 'App has come to the foreground!'
+05-17 10:09:20.435  7812  7847 I ReactNativeJS: 85, 'RN59RootTag', 'background', 'active'
+05-17 10:09:20.436  7812  7847 I ReactNativeJS: 85, 'RN59RootTag', 'App has come to the foreground!'
+05-17 10:09:20.438  7812  7847 I ReactNativeJS: 26, 'RN59RootTag', 'background', 'active'
+05-17 10:09:20.438  7812  7847 I ReactNativeJS: 26, 'RN59RootTag', 'App has come to the foreground!'
+05-17 10:09:20.440  7812  7847 I ReactNativeJS: 73, 'RN59RootTag', 'background', 'active'
+05-17 10:09:20.440  7812  7847 I ReactNativeJS: 73, 'RN59RootTag', 'App has come to the foreground!'
+05-17 10:09:20.783  7812  7812 D ReactNative: ReactInstanceManager.detachViewFromInstance()
+05-17 10:09:20.789  7812  7847 I ReactNativeJS: 73, 'RN59RootTag', 'componentWillUnmount'
+05-17 10:09:21.371  7812  7847 I ReactNativeJS: 89, 'RN59RootTag', 'active', 'background'
+05-17 10:09:21.373  7812  7847 I ReactNativeJS: 85, 'RN59RootTag', 'active', 'background'
+05-17 10:09:21.380  7812  7847 I ReactNativeJS: 26, 'RN59RootTag', 'active', 'background'
+05-17 10:09:21.388  7812  7847 I ReactNativeJS: 89, 'RN59RootTag', 'background', 'active'
+05-17 10:09:21.388  7812  7847 I ReactNativeJS: 89, 'RN59RootTag', 'App has come to the foreground!'
+05-17 10:09:21.393  7812  7847 I ReactNativeJS: 85, 'RN59RootTag', 'background', 'active'
+05-17 10:09:21.393  7812  7847 I ReactNativeJS: 85, 'RN59RootTag', 'App has come to the foreground!'
+05-17 10:09:21.396  7812  7847 I ReactNativeJS: 26, 'RN59RootTag', 'background', 'active'
+05-17 10:09:21.396  7812  7847 I ReactNativeJS: 26, 'RN59RootTag', 'App has come to the foreground!'
+05-17 10:09:21.757  7812  7812 D ReactNative: ReactInstanceManager.detachViewFromInstance()
+05-17 10:09:21.759  7812  7847 I ReactNativeJS: 26, 'RN59RootTag', 'componentWillUnmount'
+05-17 10:09:22.365  7812  7847 I ReactNativeJS: 89, 'RN59RootTag', 'active', 'background'
+05-17 10:09:22.367  7812  7847 I ReactNativeJS: 85, 'RN59RootTag', 'active', 'background'
+05-17 10:09:22.384  7812  7847 I ReactNativeJS: 89, 'RN59RootTag', 'background', 'active'
+05-17 10:09:22.385  7812  7847 I ReactNativeJS: 89, 'RN59RootTag', 'App has come to the foreground!'
+05-17 10:09:22.388  7812  7847 I ReactNativeJS: 85, 'RN59RootTag', 'background', 'active'
+05-17 10:09:22.388  7812  7847 I ReactNativeJS: 85, 'RN59RootTag', 'App has come to the foreground!'
+05-17 10:09:22.737  7812  7812 D ReactNative: ReactInstanceManager.detachViewFromInstance()
+05-17 10:09:22.739  7812  7847 I ReactNativeJS: 85, 'RN59RootTag', 'componentWillUnmount'
+05-17 10:09:23.268  7812  7847 I ReactNativeJS: 89, 'RN59RootTag', 'active', 'background'
+05-17 10:09:23.612  7812  7812 D ReactNative: ReactInstanceManager.detachViewFromInstance()
+05-17 10:09:23.614  7812  7847 I ReactNativeJS: 89, 'RN59RootTag', 'componentWillUnmount'
+05-17 10:09:26.102  7812  7812 D ReactNative: ReactInstanceManager.attachRootViewToInstance()
+05-17 10:09:26.104  7812  7847 I ReactNativeJS: Running application "RN59RootTag" with appParams: {"rootTag":41}. __DEV__ === false, development-level warning are OFF, performance optimizations are ON
+05-17 10:09:26.130  7812  7847 I ReactNativeJS: 100, 'RN59RootTag', 'componentDidMount'
+05-17 10:09:26.135  7812  7847 I ReactNativeJS: 100, 'RN59RootTag', 'background', 'active'
+05-17 10:09:26.136  7812  7847 I ReactNativeJS: 100, 'RN59RootTag', 'App has come to the foreground!'
+05-17 10:09:28.016  7812  7847 I ReactNativeJS: 100, 'RN59RootTag', 'active', 'background'
+05-17 10:09:29.786  7812  7847 I ReactNativeJS: 100, 'RN59RootTag', 'background', 'active'
+05-17 10:09:29.786  7812  7847 I ReactNativeJS: 100, 'RN59RootTag', 'App has come to the foreground!'
+05-17 10:09:31.158  7812  7847 I ReactNativeJS: 100, 'RN59RootTag', 'active', 'background'
+05-17 10:09:31.990  7812  7847 I ReactNativeJS: 100, 'RN59RootTag', 'background', 'active'
+05-17 10:09:31.990  7812  7847 I ReactNativeJS: 100, 'RN59RootTag', 'App has come to the foreground!'
+05-17 10:09:33.139  7812  7847 I ReactNativeJS: 100, 'RN59RootTag', 'active', 'background'
+05-17 10:09:33.971  7812  7847 I ReactNativeJS: 100, 'RN59RootTag', 'background', 'active'
+05-17 10:09:33.971  7812  7847 I ReactNativeJS: 100, 'RN59RootTag', 'App has come to the foreground!'
+05-17 10:09:34.746  7812  7847 I ReactNativeJS: 100, 'RN59RootTag', 'active', 'background'
+05-17 10:09:35.572  7812  7847 I ReactNativeJS: 100, 'RN59RootTag', 'background', 'active'
+05-17 10:09:35.572  7812  7847 I ReactNativeJS: 100, 'RN59RootTag', 'App has come to the foreground!'
+05-17 10:09:36.938  7812  7847 I ReactNativeJS: 100, 'RN59RootTag', 'active', 'background'
+05-17 10:09:37.782  7812  7847 I ReactNativeJS: 100, 'RN59RootTag', 'background', 'active'
+05-17 10:09:37.783  7812  7847 I ReactNativeJS: 100, 'RN59RootTag', 'App has come to the foreground!'
+05-17 10:09:38.587  7812  7847 I ReactNativeJS: 100, 'RN59RootTag', 'active', 'background'
+05-17 10:09:48.185  7812  7847 I ReactNativeJS: 100, 'RN59RootTag', 'background', 'active'
+05-17 10:09:48.185  7812  7847 I ReactNativeJS: 100, 'RN59RootTag', 'App has come to the foreground!'

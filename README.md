@@ -131,6 +131,8 @@ export default class App extends Component<Props> {
 
 For me using my code the issue isnt fixed changing _android:launchMode="singleTop"_. The android app is unique, the rendered layout by RN isnt.
 
+Full project in gitgub repo at[RN59RootTag](https://github.com/castocolina/RN59RootTag)
+
 ---
 
 ## More

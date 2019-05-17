@@ -13,7 +13,9 @@ This issue is present in RN from versions under 0.54.x to latest versions
 - [rootTag changed when back button pressed #13679](https://github.com/facebook/react-native/issues/13679)
 - [Multiple app instances on first run #13029](https://github.com/facebook/react-native/issues/13029)
 
-## [ENV] React Native version:
+## Environment
+
+#### React Native version:
 
 ```
 React Native Environment Info:
